@@ -57,7 +57,7 @@ export default function Home() {
             <Project
               name="morpheu5.com"
               logo="/morpheu5.png"
-              description="Generative art. >1k sales."
+              description="Generative art. >1k sold."
               link="https://www.morpheu5.com/"
             />
             <Project
