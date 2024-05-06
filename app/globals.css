@@ -5,7 +5,7 @@
 /* ethereal ivory #E4E4DE, sophisticated sage #C4C5BA, timeless noir #1B1B1B, muted moss #595f39 */
 
 :root {
-  --foreground-rgb: 0, 0, 0;
+  --foreground-rgb: 18, 18, 18;
   --background-rgb: 248 250 252;
   --primary: #595f39;
   --secondary: #c4c5ba;
@@ -14,7 +14,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 248 250 252;
-    --background-rgb: 0, 0, 0;
+    --background-rgb: 18, 18, 18;
     --primary: #c4c5ba;
     --secondary: #595f39;
   }
